@@ -1,0 +1,20 @@
+What are HOOKS
+Blocks of code that runs before OR after each scenario 
+Can define hooks by using annotations @Before @After 
+
+Types of hooks
+
+Scenario Hooks :Scenario Hooks runs before and after each scenario
+                @Before  @After
+Step Hooks:    Step Hooks - runs before and after each step 
+                @BeforeStep @AfterStep
+
+
+   @Before---this hook run before every scenario
+  @After--this hook run after every scenario
+  @BeforeStep--this hook will run before every step in the scenario
+@AfterStep--this hook will run After every step in the scenario
+
+
+
+

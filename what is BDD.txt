@@ -1,0 +1,34 @@
+what is BDD
+what is Cucumber?
+cucumber work flow?
+What is feature file ? what kind of keyword in it?
+what is Step definition ? how to implement it?
+what is feature file? what is consist of? what are the use of feature file?
+
+
+Scenario Outline: if the same scenario if u want to run with multiple data 
+
+Examples: is keyword which holds test data 
+
+
+keyword:
+
+feature 
+Scenario
+When
+Then
+Given
+And
+But
+Scenario Outline
+Examples
+Background: it is keyword which is holds sequences of common steps
+
+hooks
+
+
+
+
+
+
+
